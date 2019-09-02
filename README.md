@@ -1,6 +1,5 @@
 #### DeepLNDataset
-This dataset is constructed by three-level and semi-automatic annotations including
-two kinds of resolution CT images.
+This dataset was constructed by three-level and semi-automatic annotations.
 
 
 #### Dataset available
@@ -13,3 +12,8 @@ contact us and send us a e-mail. The following information should be provided:
 
 #### Cautions
 This public dataset can only be used for reseaches and not be used for commerce.
+You can contact us with the following e-mail:
+- xuxiuyuan@stu.scu.edu.cn
+- chengdi_wang@stu.scu.edu.cn
+- weimi003@scu.edu.cn
+- zhangyi@scu.edu.cn
