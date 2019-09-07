@@ -1,5 +1,5 @@
-#### DeepLNDataset
-This dataset was constructed by three-level and semi-automatic annotations.
+#### DeepLNDataset description
+This dataset is collected to construct a model that can be used to detect lung nodules from multi-resolution CT images. A three-level labeling criterion and a semi-automatic annotation system are presented to guarantee the correctness and efficiency of lung nodule annotation. The details of annotation process are introduced in our article. This dataset include two kinds of resolution CT: thin-section CT images with 1mm thickness and thick-section CT images with 5mm thickness.
 
 
 #### Dataset available
