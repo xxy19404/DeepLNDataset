@@ -13,7 +13,7 @@ The following information should be provided:
 3. Your major;
 
 You can contact us using the following e-mail:
-- xuxiuyuan@stu.scu.edu.cn
+- xuxiuyuan@scu.edu.cn
 - chengdi_wang@stu.scu.edu.cn
 - weimi003@scu.edu.cn
 - zhangyi@scu.edu.cn
