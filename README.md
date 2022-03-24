@@ -14,7 +14,7 @@ The following information should be provided:
 
 You can contact us using the following e-mail:
 - xuxiuyuan@scu.edu.cn
-- chengdi_wang@stu.scu.edu.cn
+- chengdi_wang@scu.edu.cn
 - weimi003@scu.edu.cn
 - zhangyi@scu.edu.cn
 
