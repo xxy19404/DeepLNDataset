@@ -2,10 +2,13 @@
 This dataset is collected to construct a model that can be used to detect lung nodules from multi-resolution CT images. A three-level labeling criterion and a semi-automatic annotation system are presented to guarantee the correctness and efficiency of lung nodule annotation. The details of annotation process are introduced in our article. This dataset include two kinds of resolution CT: thin-section CT images with 1mm thickness and thick-section CT images with 5mm thickness.
 
 
-#### Dataset available
-To remove sensitive infomation, we just remain HU values and spacing of CT images
-and save them in a *numpy*. If some researchers want to obtain this dataset please
-contact us and send us a e-mail.
+#### Data Processing & Access:
+
+Anonymization: To ensure privacy, all personally identifiable and sensitive information has been removed from the CT images.
+
+Preserved Data: Only the image data (Hounsfield Unit values) and spatial metadata (e.g., pixel spacing) are preserved, stored in NumPy array format (.npy files).
+
+Access Request: The dataset is available upon request for research purposes. Please contact us via email to inquire about access.
 
 The following information should be provided:
 1. Your name;
