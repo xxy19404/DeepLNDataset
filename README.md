@@ -4,11 +4,11 @@ This dataset is collected to construct a model that can be used to detect lung n
 
 #### Data Processing & Access:
 
-Anonymization: To ensure privacy, all personally identifiable and sensitive information has been removed from the CT images.
+**Anonymization**: To ensure privacy, all personally identifiable and sensitive information has been removed from the CT images.
 
-Preserved Data: Only the image data (Hounsfield Unit values) and spatial metadata (e.g., pixel spacing) are preserved, stored in NumPy array format (.npy files).
+**Preserved Data**: Only the image data (Hounsfield Unit values) and spatial metadata (e.g., pixel spacing) are preserved, stored in NumPy array format (.npy files).
 
-Access Request: The dataset is available upon request for research purposes. Please contact us via email to inquire about access.
+**Access Request**: The dataset is available upon request for research purposes. Please contact us via email to inquire about access.
 
 The following information should be provided:
 1. Your name;
